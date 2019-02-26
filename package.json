@@ -1,0 +1,16 @@
+{
+  "name": "flight-tracker",
+  "version": "1.0.0",
+  "description": "A simple flight tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gamer4life Puvilland",
+  "license": "ISC",
+  "dependencies": {
+    "flight-scrapper": "^1.0.0",
+    "nodemon": "^1.18.10"
+  }
+}
